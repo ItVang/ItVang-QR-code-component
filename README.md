@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Frontend Mentor]([https://your-solution-url.com](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H))
-- Live Site URL: [Github Live]([https://your-live-site-url.com](https://itvang.github.io/ItVang-QR-code-component/))
+- Solution URL: [Frontend Mentor](https://your-solution-url.com](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+- Live Site URL: [Github Live](https://your-live-site-url.com](https://itvang.github.io/ItVang-QR-code-component))
 
 
 
